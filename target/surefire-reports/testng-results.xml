@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13598" started-at="2021-04-17T01:45:47 IST" finished-at="2021-04-17T01:46:00 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13598" started-at="2021-04-17T01:45:47 IST" finished-at="2021-04-17T01:46:00 IST">
+      <class name="PRAPACK.OneTest">
+        <test-method status="PASS" signature="One()[pri:0, instance:PRAPACK.OneTest@1f28c152]" name="One" duration-ms="10150" started-at="2021-04-17T01:45:47 IST" finished-at="2021-04-17T01:45:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- One -->
+        <test-method status="PASS" signature="closure()[pri:0, instance:PRAPACK.OneTest@1f28c152]" name="closure" is-config="true" duration-ms="3413" started-at="2021-04-17T01:45:57 IST" finished-at="2021-04-17T01:46:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+      </class> <!-- PRAPACK.OneTest -->
+      <class name="PRAPACK.FourTest">
+        <test-method status="PASS" signature="mFourTest()[pri:0, instance:PRAPACK.FourTest@a7e666]" name="mFourTest" duration-ms="1" started-at="2021-04-17T01:46:00 IST" finished-at="2021-04-17T01:46:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mFourTest -->
+      </class> <!-- PRAPACK.FourTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
